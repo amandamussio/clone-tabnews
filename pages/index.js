@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Daniela, amo vc. Que você tenha um dia lindo.</h1>;
+  return <h1>Teste exportando modulo</h1>;
 }
 
 export default Home;
